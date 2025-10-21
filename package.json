@@ -1,6 +1,6 @@
 {
   "name": "aicss",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "AICSS React components and CLI. Website: aicss.dev",
   "main": "src/index.ts",
   "scripts": {
